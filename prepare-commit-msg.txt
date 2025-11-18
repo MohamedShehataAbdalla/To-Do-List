@@ -1,4 +1,4 @@
-# Simple-Calculator
+# To-Do-List
 
 Please copy and paste this in your hookss --->Prepare-commit-msg and delete .sample in the file name
 
